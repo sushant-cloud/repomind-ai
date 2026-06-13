@@ -1,0 +1,6 @@
+{
+  "name": "RepoMind AI",
+  "description": "AI-Powered Developer Collaboration, Analytical Diagnostics, and Premium Repository Analytics Workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
